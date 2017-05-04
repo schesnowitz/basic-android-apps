@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shaping Numbers</string>
+    <string name="enter_a_number_to_see_if_it_is_triagular_square_or_both">Enter a number to see if it is Triagular, Square or both.</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="test_a_number">Test a Number</string>
+</resources>

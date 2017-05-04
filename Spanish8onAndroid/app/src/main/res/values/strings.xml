@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spanish 8 on Android</string>
+    <string name="good_10_morning">Good   Morning</string>
+    <string name="good_10_night">Good   Night</string>
+    <string name="how">How</string>
+    <string name="what">What</string>
+    <string name="when">When</string>
+    <string name="where">Where</string>
+    <string name="who">Who</string>
+    <string name="why">Why</string>
+</resources>
