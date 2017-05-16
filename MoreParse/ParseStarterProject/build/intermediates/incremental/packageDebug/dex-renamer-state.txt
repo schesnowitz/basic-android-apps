@@ -1,0 +1,7 @@
+#Tue May 16 04:34:58 EDT 2017
+base.0=C\:\\Users\\steve\\Desktop\\Applications\\android\\MoreParse\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9df6d9cc40753b6dfb12845cfcabac6c1f2a95e7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\steve\\Desktop\\Applications\\android\\MoreParse\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_30d1580a1049085fc1b399a1e2636cea05547407\\classes.dex
+base.1=C\:\\Users\\steve\\Desktop\\Applications\\android\\MoreParse\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_30d1580a1049085fc1b399a1e2636cea05547407
+file.0=C\:\\Users\\steve\\Desktop\\Applications\\android\\MoreParse\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9df6d9cc40753b6dfb12845cfcabac6c1f2a95e7\\classes.dex
